@@ -7,4 +7,5 @@ It contains all the necessary feautures that a blog needs to have like :
 3. Create,edit and delete your profile , profile picture , email.
 4. Add,edit,delete multiple articles in a blog account 
 5. Comments on posts by viewers
+etc
 
